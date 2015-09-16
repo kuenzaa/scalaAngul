@@ -1,0 +1,4 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/home/ikebrown/Scalatest/jameswa/conf/logback.xml,/home/ikebrown/Scalatest/jameswa/target/scala-2.11/classes/logback.xml)[0m
+[0m[[0mdebug[0m] [0m	(/home/ikebrown/Scalatest/jameswa/conf/application.conf,/home/ikebrown/Scalatest/jameswa/target/scala-2.11/classes/application.conf)[0m
+[0m[[0mdebug[0m] [0m	(/home/ikebrown/Scalatest/jameswa/conf/routes,/home/ikebrown/Scalatest/jameswa/target/scala-2.11/classes/routes)[0m
